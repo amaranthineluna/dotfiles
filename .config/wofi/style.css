@@ -39,7 +39,7 @@ window {
   margin: 5px;
   border: none;
   color: #ffffff;
-  background-color: rgba(55, 58, 62, 0.8);
+  background-color: transparent;
 }
 
 #entry {

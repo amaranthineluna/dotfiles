@@ -6,7 +6,7 @@
 
 window#waybar {
     background-color: rgba(23, 25, 28, 0.8);
-    border-bottom: 3px solid rgba(100, 114, 125, 0.5);
+    border-bottom: 2px solid rgba(100, 114, 125, 0.5);
     color: #ffffff;
     transition-property: background-color;
     transition-duration: .5s;
@@ -31,7 +31,7 @@ button:hover {
 }
 
 #workspaces button {
-    padding: 0 10px;
+    padding: 0;
     background-color: transparent;
     color: #ffffff;
 }
@@ -167,8 +167,10 @@ label:focus {
     color: white;
     background-image: url('https://img.freepik.com/free-photo/abstract-surface-textures-white-concrete-stone-wall_74190-8189.jpg');
     border: none;
+    border-radius: 50px;
     box-shadow: none;
 }
+
 #pulseaudio-slider trough {
     min-height: 8px;
     min-width: 80px;
