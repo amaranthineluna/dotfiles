@@ -161,7 +161,7 @@ scale trough slider {
 .control-center {
   background: @cc-bg;
   border-radius: 10px;
-  border: 2px solid rgb(125, 196, 228);
+  border: 2px solid #333333;
 }
 
 .control-center-list {

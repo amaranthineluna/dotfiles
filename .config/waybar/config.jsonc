@@ -2,7 +2,7 @@
 {
     "layer": "top", // Waybar at top layer
     "position": "top", // Waybar position (top|bottom|left|right)
-    "height": 28, // Waybar height (to be removed for auto height)
+    "height": 30, // Waybar height (to be removed for auto height)
     // "width": 1280, // Waybar width
     "spacing": 4, // Gaps between modules (4px)
     // Choose the order of the modules
@@ -15,7 +15,6 @@
     ],
     "modules-right": [
         "pulseaudio",
-        "pulseaudio/slider",
         "cpu",
         "memory",
         "temperature",
@@ -110,11 +109,6 @@
             ]
         },
         "on-click": "pavucontrol"
-    },
-    "pulseaudio/slider": {
-        "min": 0,
-        "max": 100,
-        "orientation": "horizontal"
     },
     "custom/power": {
         "format": "⏻ ",
