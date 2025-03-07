@@ -1,0 +1,30 @@
+[colors.primary]
+background = "0x1c1c1c"  # Dark gray background
+foreground = "0xe6e6e6"  # Light gray foreground
+
+[colors.cursor]
+text = "0x1c1c1c"        # Dark gray text in cursor
+cursor = "0xe6e6e6"      # Light gray cursor
+
+[colors.normal]
+black = "0x2e2e2e"       # Darker gray
+red = "0x4e4e4e"         # Medium gray
+green = "0x6e6e6e"       # Lighter gray
+yellow = "0x8e8e8e"      # Light gray
+blue = "0xaaaaaa"        # Very light gray
+magenta = "0xcacaca"     # Almost white
+cyan = "0xececec"        # Near white
+white = "0xffffff"       # White
+
+[colors.bright]
+black = "0x4e4e4e"       # Medium gray for bright black
+red = "0x6e6e6e"         # Lighter gray for bright red
+green = "0x8e8e8e"       # Light gray for bright green
+yellow = "0xaaaaaa"      # Very light gray for bright yellow
+blue = "0xcacaca"        # Almost white for bright blue
+magenta = "0xececec"     # Near white for bright magenta
+cyan = "0xffffff"        # White for bright cyan
+white = "0xffffff"       # White for bright white
+
+[terminal]
+shell = "/usr/bin/fish"
