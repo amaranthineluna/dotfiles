@@ -6,6 +6,6 @@
 * *Status Bar:* Waybar
 * *Terminal*: Alacritty
 * *Launcher*: wofi
-* *VSCode Theme*: Carbonfox [Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
+* *VSCode Theme*: Carbonight [Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
 * *Telegram Theme*: [AMOLED Black](https://t.me/s/ABTheme?before=464)
 * *Firefox Theme*: [Black](https://addons.mozilla.org/en-US/firefox/addon/black21/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser) by XI
